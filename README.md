@@ -9,8 +9,8 @@
 
 *but jacob degrom added*
 [youtube](https://www.youtube.com/watch?v=KfFqumBsDoA)
+
 ![Hhaha](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/output1.gif)
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 ## Black navy war 2
 
