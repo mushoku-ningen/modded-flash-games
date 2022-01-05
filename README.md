@@ -10,7 +10,7 @@ _but jacob degrom added_
 
 **Black navy war 2**
 
-![game](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/black-navy-war-2.ppg)
+![game](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/black-navy-war-2.png)
 
 _but padoru added_
 ![Hhaha](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/output.gif)
