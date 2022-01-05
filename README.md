@@ -9,7 +9,7 @@
 
 ![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/B.gif)
 
-### [watch on youtube](https://www.youtube.com/watch?v=FNb6DhkTBkk)
+## [watch full on youtube](https://www.youtube.com/watch?v=FNb6DhkTBkk)
 
 <p>&nbsp;</p>
 
@@ -21,7 +21,7 @@
 
 ![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/H.gif)
 
-### [watch on youtube](https://www.youtube.com/watch?v=KfFqumBsDoA)
+## [watch full on youtube](https://www.youtube.com/watch?v=KfFqumBsDoA)
 
 <p>&nbsp;</p>
 
