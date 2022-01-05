@@ -36,4 +36,5 @@ you can go to Downloads directory and download .swf files. swf file is basically
 
 ## Author 
 [twitter](https://twitter.com/mlasdf2)
-[discordl](https://discordapp.com/users/741246124710690880)
+
+[discord](https://discordapp.com/users/741246124710690880)
