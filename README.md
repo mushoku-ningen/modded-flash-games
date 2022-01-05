@@ -21,7 +21,7 @@
 
 *but padoru added*
 
-![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/output.gif)
+![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/B.gif)
 
 [watch on youtube](https://www.youtube.com/watch?v=FNb6DhkTBkk)
 
