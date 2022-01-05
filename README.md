@@ -18,7 +18,6 @@
 ![game](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/black-navy-war-2.png)
 
 *but padoru added*
-
 ![Hhaha](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/output.gif)
 
 [watch on youtube](https://www.youtube.com/watch?v=FNb6DhkTBkk)
