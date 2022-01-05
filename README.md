@@ -1,8 +1,16 @@
-# modded flash games
-
-## I made modded flash gamed for fun
+# modded flash games i made for fun
 
 **Winnie the Pooh's Home Run Derby**
 
-https://github.com/mushoku-ningen/modded-flash-games/blob/main/homerunderby_en%20(1).swf
-! [Earth] (https://github.com/mushoku-ningen/modded-flash-games/blob/main/Downloads/Winnie-the-Poohs-Home-Run-Derby.swf)
+![Earth](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/homerunderby_en_screenshot.jpg)
+
+_but jacob degrom added_
+![Hhaha](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/output1.gif)
+
+
+**Black navy war 2**
+
+![game](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/black-navy-war-2.ppg)
+
+_but padoru added_
+![Hhaha](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/output.gif)
