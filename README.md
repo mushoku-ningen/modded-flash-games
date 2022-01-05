@@ -26,8 +26,6 @@
 [watch on youtube](https://www.youtube.com/watch?v=FNb6DhkTBkk)
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-
 ## How to play them
 you can go into the Downloads directory or Realses(swif files) and download .swf files. swf file is basically exe file  in flashplayer. To play them, you can google like "how to play swf file in windows/mac/linux"
 
