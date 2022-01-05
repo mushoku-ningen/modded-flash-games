@@ -28,6 +28,17 @@ _but padoru added_
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Download 
 you can go to Downloads directory and download .swf files. swf file is basically exe file but in flashplayer. To play them,  you can google like "how to play swf file" for your windows/mac/linux
 
