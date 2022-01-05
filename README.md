@@ -9,7 +9,7 @@
 
 *but jacob degrom added*
 
-![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/output1.gif)
+![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/H.gif)
 
 [watch on youtube](https://www.youtube.com/watch?v=KfFqumBsDoA)
 
