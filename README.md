@@ -27,7 +27,7 @@
 
 
 ## How to play them
-you can go into the Downloads directory or Realses(swif files) and download .swf files. swf file is basically exe file  in flashplayer. To play them, you can google like "how to play swf file in windows/mac/linux"
+You can go into the Downloads directory or Realses(swif files) and download .swf files. swf file is basically exe file  in flashplayer. To play them, u need to click "Download the Flash Player Projector (64-bit)" from [here](https://www.adobe.com/support/flashplayer/debug_downloads.html) for windows/mac/linux, start the application and open downloaded swife file.
 
 ## Flash decompiler i used
 [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler)
