@@ -17,7 +17,9 @@
 
 ![picture](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/homerunderby_en_screenshot.jpg)
 
-### but jacob degrom added
+### but jacob degrom added 
+
+#### and you can level up power,contact and speed to infinity (20 by default)
 
 ![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/H.gif)
 
