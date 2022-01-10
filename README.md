@@ -19,7 +19,7 @@
 
 ### but jacob degrom added 
 
-#### and you can level up power,contact and speed to infinity (20 by default)
+#### and you can increase power, contact and speed parameter up to infinity (20 by default)
 
 ### [watch full on youtube](https://www.youtube.com/watch?v=KfFqumBsDoA) 
 
