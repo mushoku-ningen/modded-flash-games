@@ -1,18 +1,6 @@
 
 # modded flash games I made for fun
 
-## Black navy war 2
-
-![picture](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/black-navy-war-2.png)
-
-### but padoru added
-
-![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/B.gif)
-
-### [watch full on youtube](https://www.youtube.com/watch?v=FNb6DhkTBkk)
-
-<p>&nbsp;</p>
-
 ## Winnie the Pooh's Home Run Derby
 
 ![picture](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/homerunderby_en_screenshot.jpg)
@@ -29,6 +17,19 @@
 ![picture](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/09:37_01-08_screenshot.png)
 
 <p>&nbsp;</p>
+
+## Black navy war 2
+
+![picture](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/black-navy-war-2.png)
+
+### but padoru added
+
+![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/B.gif)
+
+### [watch full on youtube](https://www.youtube.com/watch?v=FNb6DhkTBkk)
+
+<p>&nbsp;</p>
+
 
 
 ## How to play them
