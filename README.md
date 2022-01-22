@@ -18,6 +18,18 @@
 
 <p>&nbsp;</p>
 
+## Captain Forever
+
+![picture](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/Captain_forever.jpg)
+
+### you can play the subscribed version for free
+
+## that means you can export vessel 
+
+![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/C.gif)
+
+<p>&nbsp;</p>
+
 ## Black navy war 2
 
 ![picture](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/black-navy-war-2.png)
