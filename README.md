@@ -12,19 +12,14 @@
 ### [watch full on youtube](https://www.youtube.com/watch?v=KfFqumBsDoA) 
 
 ![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/H.gif)
-
-
 ![picture](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/09:37_01-08_screenshot.png)
-
 <p>&nbsp;</p>
 
 ## Captain Forever
 
 ![picture](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/Captain_forever.jpg)
 
-### you can play the subscribed version for free
-
-### that means you can export vessel 
+### i hacked this game to allow for users to export vessel from url for free.
 
 ![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/C.gif)
 
