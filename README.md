@@ -21,10 +21,11 @@
 
 ![picture](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/Captain_forever.jpg)
 
-### i hacked this game to allow for users to export vessel from url for free.
+### i hacked this game to allow for users to import vessel from url for free.
 
 ![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/C.gif)
 
+you can import my fav vessel i made copy from here [here](https://github.com/mushoku-ningen/modded-flash-games/blob/main/README.md)
 <p>&nbsp;</p>
 
 ## Black navy war 2
