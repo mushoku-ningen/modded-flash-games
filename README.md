@@ -23,7 +23,7 @@
 
 ![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/C.gif)
 
-you can import my fav vessel i made copy from [here](https://github.com/mushoku-ningen/modded-flash-games/files/vessel-i-made)
+you can import my fav vessel i made copy and paste from [here](https://github.com/mushoku-ningen/modded-flash-games/blob/main/files/vessel-i-made)
 <p>&nbsp;</p>
 
 ## Black navy war 2
