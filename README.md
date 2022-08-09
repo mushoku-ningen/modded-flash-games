@@ -5,11 +5,11 @@
 
 ![picture](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/homerunderby_en_screenshot.jpg)
 
-### but jacob degrom added 
+### but jacob degrom added
 
 #### and you can increase power, contact and speed parameter up to infinity (20 by default)
 
-### [watch full on youtube](https://www.youtube.com/watch?v=KfFqumBsDoA) 
+### [watch full on youtube](https://www.youtube.com/watch?v=KfFqumBsDoA)
 
 ![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/H.gif)
 ![picture](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/09:37_01-08_screenshot.png)
@@ -23,7 +23,7 @@
 
 ![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/C.gif)
 
-you can import my fav vessel i made copy and paste from [here](https://github.com/mushoku-ningen/modded-flash-games/blob/main/files/vessel-i-made)
+you can import my fav vessel i made, copy and paste it from [here](https://github.com/mushoku-ningen/modded-flash-games/blob/main/files/vessel-i-made)
 <p>&nbsp;</p>
 
 ## Black navy war 2
@@ -46,7 +46,7 @@ You can go into the Downloads directory or Releases and download .swf files. swf
 ## Flash decompiler I used
 [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler)
 
-## Author 
+## Author
 [twitter](https://twitter.com/mlasdf2)
 
 [discord](https://discordapp.com/users/741246124710690880)
