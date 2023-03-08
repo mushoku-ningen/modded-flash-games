@@ -19,7 +19,7 @@
 
 ![picture](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Pictures/Captain_forever.jpg)
 
-### i hacked this game to allow for users to import vessel from url for free.
+### i created this white box on the upper right to allow for users to import vessel from url for free.
 
 ![Video](https://github.com/mushoku-ningen/modded-flash-games/blob/main/Videos/C.gif)
 
